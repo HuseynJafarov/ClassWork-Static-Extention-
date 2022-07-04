@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bO8qc3O3ZuGQAwkBkriyzGY3kIWHSLv5F0h1Ky6kYf3FZKsozluXWrU3FLYAmSQySC88XlVadauIimkwWFRjRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeClassWork\\Static, Extentions\\Static, Extentions\\Static, Extentions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
